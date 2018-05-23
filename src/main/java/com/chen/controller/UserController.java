@@ -12,7 +12,7 @@ import com.chen.service.UserServiceImpl;
 @Controller
 @RequestMapping("/userInfo")
 public class UserController {
-	
+	//测试jenkins构建
 	@Autowired
 	private UserServiceImpl userServiceImpl;
 	
