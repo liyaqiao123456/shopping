@@ -65,7 +65,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
             <div class="btn btn_r">&gt;</div>
   </div>
 <div id="block1">
-  <h3><a href="/">360明星单品</a></h3>
+  <h3><a href="/">近期热卖单品</a></h3>
   <ul>
     <li><a href="/"><img src="img/bl1.png" /></a></li>
     <li><a href="/"><img src="img/bl2.png" /></a></li>
